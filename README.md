@@ -10,6 +10,7 @@
 - 🎯 On a mission to transition into **Java Full Stack Development**
 - 🎓 Electronics & Telecommunication Engineer (ENTC)
 - 🌱 Currently leveling up in **Spring Boot**, **React**, and **Microservices**
+- ☁️ **AWS Certified Cloud Practitioner** | Preparing for **AWS Solutions Architect Associate**
 - 💡 I enjoy building end-to-end systems that solve real-world problems
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sagar-kamble-844446246)
 
@@ -37,6 +38,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Certifications**
+ 
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-In_Progress-yellow?style=for-the-badge&logo=amazonaws&logoColor=white)
+ 
 
 **Databases**
 

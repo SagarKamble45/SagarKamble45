@@ -11,6 +11,8 @@
 - 🎓 Electronics & Telecommunication Engineer (ENTC)
 - 🌱 Currently leveling up in **Spring Boot**, **React**, and **Microservices**
 - ☁️ **AWS Certified Cloud Practitioner** | Preparing for **AWS Solutions Architect Associate**
+- 📜 **IBM Java Developer** Professional Certificate (Coursera) | Java Masterclass & Spring Boot (Udemy)
+- 🔍 Hands-on with **Splunk** — SPL queries & dashboards
 - 💡 I enjoy building end-to-end systems that solve real-world problems
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sagar-kamble-844446246)
 
@@ -39,17 +41,20 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Certifications**
- 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-In_Progress-yellow?style=for-the-badge&logo=amazonaws&logoColor=white)
- 
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Certifications**
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-In_Progress-yellow?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IBM Java Developer](https://img.shields.io/badge/IBM_Java_Developer-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Java Masterclass](https://img.shields.io/badge/Java_Programming_Masterclass-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Spring Boot Udemy](https://img.shields.io/badge/Spring_5_with_Spring_Boot_2-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 
 ---
 

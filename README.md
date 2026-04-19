@@ -9,7 +9,6 @@
 - 💼 Currently working as an **Analyst at Capgemini** in the **DevOps domain**
 - 🎯 On a mission to transition into **Java Full Stack Development**
 - 🎓 Electronics & Telecommunication Engineer (ENTC)
-- 🔭 Built **VLPR** — a real-time Vehicle License Plate Recognition system using YOLOv8 & EasyOCR
 - 🌱 Currently leveling up in **Spring Boot**, **React**, and **Microservices**
 - 💡 I enjoy building end-to-end systems that solve real-world problems
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sagar-kamble-844446246)
@@ -48,19 +47,19 @@
 
 ## 📌 Featured Projects
 
-### 🚗 [VLPR — Vehicle License Plate Recognition](https://github.com/SagarKamble45/VLPR-web)
-> Web-based license plate recognition system using **YOLOv8** and **EasyOCR** to detect and read plates in real time, storing results in **MongoDB**.
-- Real-time detection pipeline
-- Web interface for live results
-- Built as Final Year Engineering Project
-
----
-
 ### 🚆 [Railway Ticket Booking System](https://github.com/SagarKamble45/Railway-Ticket-Booking-System-Java-Backend-Project)
 > A comprehensive **Java backend** application for managing railway ticket bookings, user authentication, and train scheduling with real-time seat availability tracking.
 - User authentication & role management
 - Train scheduling & seat tracking
 - Clean OOP architecture
+
+---
+
+### 🚗 [VLPR — Vehicle License Plate Recognition](https://github.com/SagarKamble45/VLPR-web)
+> Web-based license plate recognition system using **YOLOv8** and **EasyOCR** to detect and read plates in real time, storing results in **MongoDB**.
+- Real-time detection pipeline
+- Web interface for live results
+- Built as Final Year Engineering Project
 
 ---
 
